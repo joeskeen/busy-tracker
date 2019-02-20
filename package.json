@@ -1,0 +1,13 @@
+{
+  "name": "busy-tracker",
+  "version": "1.0.0",
+  "description": "a small utility for keeping track of pending operations, useful for displaying loading spinners",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joeskeen/busy-tracker.git"
+  },
+  "scripts": {},
+  "author": "Joe Skeen <https://github.com/joeskeen>",
+  "license": "MIT"
+}
